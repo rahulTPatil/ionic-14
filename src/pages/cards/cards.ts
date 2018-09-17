@@ -27,6 +27,7 @@ export class CardsPage {
         },
         date: 'May 12, 1984',
         image: 'assets/img/advance-card-tmntr.jpg',
+        sex: 'female',
         content: 'I face the unknown future, with a sense of hope. Because if a machine, a Terminator, can learn the value of human life, maybe we can too.'
       },
       {
